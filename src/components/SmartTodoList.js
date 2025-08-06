@@ -390,7 +390,7 @@ function SmartTodoList() {
       fontFamily: 'Arial, sans-serif'
     }}>
       <h1 style={{ textAlign: 'center', color: '#4CAF50' }}>
-        🚀 Smart Todo List {isLoading && "⏳"}
+        Smart Todo List {isLoading && "⏳"}
       </h1>
       
       {/* ========================================
